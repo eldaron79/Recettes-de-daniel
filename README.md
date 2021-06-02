@@ -1,5 +1,6 @@
 # Recettes-de-daniel
 
+![Kiku](images/Four_a_bois.jpg)
 mon site qui regroupe mes recettes de cuisine
 
 ## Utilisation des commande Git
